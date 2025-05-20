@@ -8,7 +8,7 @@ function Intro () {
         <img src="src/assets/icons/intro_pic.png" alt="Picture of developer" />
     </div>
 
-    <div className='vert-rule-middle'>
+    <div className='vert-rule-middle-intro'>
       <img src="src/assets/icons/vertical_rule.png" alt="" />
     </div>
 

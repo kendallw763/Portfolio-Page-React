@@ -25,8 +25,10 @@ a{
   background-color:#1B263B;
   padding-top: 15px; 
   padding-bottom: 1px; 
+  position:sticky;
+  overflow: hidden;
+  top: 0;
 }
-
 
 .nav-logo{
   width:60px;
@@ -54,11 +56,11 @@ list-style: none;
   border-radius: 20px;
 }
 
-.vert-rule-middle{
+.vert-rule-middle-intro{
   margin-left: 12.5%;
 }
 
-.vert-rule-middle img{
+.vert-rule-middle-intro img{
   height: 647px;
   width: 5px;
 }
@@ -70,6 +72,14 @@ list-style: none;
 .icon-right img{
   width: 200px;
   border-radius: 20px;
+}
+
+.main-section{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 90px;
+  padding-bottom: 90px;
+  
 }
 
 .main-paragraph{
@@ -84,10 +94,40 @@ list-style: none;
   width: 500px;
   
 }
-.main-section{
+
+.about-section{
   display: flex;
   justify-content: space-evenly;
-  margin-top: 90px;
+  margin-top: 180px;
+  padding-bottom: 270px;
+  
 }
 
+
+.about-paragraph{
+margin-right:20%;
+align-self: center;
+
+}
+
+.about-paragraph h4{
+   color: white;
+  font-size: 19px;
+  font-weight: 1000;
+  width: 500px;
+}
+
+.icon-left{
+  align-self: center;
+}
+
+.icon-left img{
+  width: 225px;
+  border-radius: 20px;
+}
+
+.about-picture-right img {
+   width:600px;
+  border-radius: 20px;
+}
 

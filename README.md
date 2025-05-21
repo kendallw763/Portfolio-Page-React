@@ -1,3 +1,4 @@
-First commit of many. I still have to complete the rest of the components within the site. They will be posted on separate branches. 
-
-![Screenshot 2025-05-19 at 5 35 48 PM](https://github.com/user-attachments/assets/525e6847-97fc-4b85-af8d-c415165dca08)
+This marks the third branch of this project. It features my skill set within software development. 
+At a later date, for this project, I will be adding react routes. This portfolio website will feature 
+links that route the user to different areas of the same web page.
+![Screenshot 2025-05-21 at 10 20 55 AM](https://github.com/user-attachments/assets/ed78670b-121b-46f1-9ace-67af567c0e35)
